@@ -12,7 +12,9 @@ The code requires sklearn, NumPy and Matplotlib
 
 ## Authors
 Johannes Roser
+
 Martha Falkesgaard Nybroe 
+
 Olivia Sommer Droob
 
 ## Acknowledgments
