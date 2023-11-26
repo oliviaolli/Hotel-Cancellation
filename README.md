@@ -5,7 +5,7 @@ Using the Hotel Reservation Classification Data Set, a Random Forest classifier 
 
 The main code RandomForestPredict.ipynb includes the implementation of the Decision Tree Classifier as well as a basic Random Forest. Additionally, it includes the option of a tweaked Random Forest with feature engineering or a random subsetting of features. 
 
-The plot code includes all the code for the plots presented in the report 
+The code plots.ipynb includes all the code for the plots presented in the report 
 
 ### Dependencies
 The code requires sklearn, NumPy and Matplotlib
